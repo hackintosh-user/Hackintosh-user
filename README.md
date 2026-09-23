@@ -11,6 +11,9 @@
 ### 🚀 About Me
 
 A Riyadh-based developer, programming from a hackintosh and turning a fingerprint sensor from something useless on a hackintosh into something you'd use every day to authenticate prompts from scratch!
+* Turned a fingerprint client dream into code
+* Building more sensor support for the hackintosh community
+* Making the Client Work across all configs :)
 
 🔭 &nbsp;I'm currently working on **Hackintosh Touch-ID**  
 💬 &nbsp;Ask me about **Any Hackintosh Touch ID Questions?**  
