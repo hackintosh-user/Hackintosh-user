@@ -35,7 +35,7 @@ A Riyadh-based developer, programming from a hackintosh and turning a fingerprin
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://x.com/x.com/mohammad_q_124"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/mohammad_q_124"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ### 📊 GitHub Stats
